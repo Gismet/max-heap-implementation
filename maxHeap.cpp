@@ -24,7 +24,7 @@ In general a heap has two properties
  the shape property makes it easy to insert and delete a node in O(log n) time.
  This is because the height of a complete binary tree with n nodes is O(log n).
 
-Heap data structure has different applications such as implemention a priority queue,
+Heap data structure has different applications such as implementing a priority queue,
 heap sort algorithm, implementing some graph algorithms
 
 */
